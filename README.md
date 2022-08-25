@@ -59,6 +59,9 @@
         <img align="center" alt="Adriano-Spring" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
             style="max-width: 100%;">
+        <img align="center" alt="Adriano-Spring" height="30" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
+            style="max-width: 100%;">
         <img align="center" alt="Adriano-MySQL" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
             style="max-width: 100%;">
